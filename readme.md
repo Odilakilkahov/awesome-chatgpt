@@ -177,6 +177,7 @@
 - [Meeper](https://github.com/pas1ko/meeper) - Transcriptions, summary and more using ChatGPT and Whisper AI for meetings and any browser tab.
 - [YouTube Summary by TubeSum](https://chromewebstore.google.com/detail/tubesum/hkhihfjmjgledkdhmlohldmpnolcoabm) - Summarize YouTube videos.
 - [SwiftStyle AI](https://github.com/swiftstyleai/swiftstyleai) - An open-source Chrome extension that customizes content to match your unique style and brand voice.
+- [DevPause](https://chromewebstore.google.com/detail/midkjihlmjoicjlllefimoiibcanpfao) - Adds clean-copy, continue, and wide-screen buttons under ChatGPT, Claude, and Gemini answers.
 
 **User scripts**
 
